@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=cornsilk-teat&show_icons=true&hide_border=true)](https://github.com/cornsilk-tea)
+[![github stats](https://github-readme-stats.vercel.app/api?username=cornsilk-tea&show_icons=true&hide_border=true)](https://github.com/cornsilk-tea)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cornsilk-tea&layout=compact)](https://github.com/cornsilk-tea)
