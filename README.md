@@ -47,4 +47,8 @@ Here are some ideas to get you started:
 ### 🌐 백준 알고리즘
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dladndrbs)](https://solved.ac/dladndrbs/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dladndrbs&theme=worm)
+---
+### 🕒 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
