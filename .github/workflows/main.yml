@@ -1,20 +1,16 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # 수동으로 Workflow 실행
   schedule:
+    # Runs at 12am IST
     - cron: "0 15 * * *" # 매일 오전 12시 (한국 시간 기준)
-
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: last_30_days
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          SHOW_TITLE: true
-        
+          LOCALE: ko
