@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dladndrbs)](https://solved.ac/dladndrbs/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dladndrbs&theme=worm)
 ---
-### 🕒 
+### 🕒 WakaTime Metrics
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2021%20mins-blue)
 
