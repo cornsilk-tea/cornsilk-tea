@@ -52,8 +52,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   11 hrs 39 mins  █████████████████████████   99.63 %
-SQL    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+From: 31 May 2023 - To: 30 June 2023
+
+Total Time: 25 hrs 39 mins
+
+Java             24 hrs          ███████████████████████▒░   93.60 %
+SQL              1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+JavaScript       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+GitIgnore file   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Solidity         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
