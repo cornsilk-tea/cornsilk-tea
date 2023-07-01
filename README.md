@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 
+
 <!-- 내가 사용하는 기술스택 소개 -->
 ## 🛠 Tech Stack 🛠
 ### Language
@@ -39,6 +40,9 @@ Here are some ideas to get you started:
 [![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io)
+
+### blog
+[![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=cornsilk-tea)](https://cornsilk-tea.tistory.com/)
 ---
 ### 📊 GitHub 통계
 [![github stats](https://github-readme-stats.vercel.app/api?username=cornsilk-tea&show_icons=false&hide_border=false&rank_icon=github&include_all_commits=true)](https://github.com/cornsilk-tea)
