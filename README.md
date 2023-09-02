@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ---
 ### 🕒 WakaTime Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2029%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -85,14 +85,14 @@ Sunday                   233 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     5 hrs 17 mins       █████████████████████████   100.00 % 
+Java                     6 hrs 44 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ                 5 hrs 17 mins       █████████████████████████   100.00 % 
+IntelliJ                 6 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-algorithm-study          5 hrs 17 mins       █████████████████████████   99.86 % 
-object-master            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+algorithm-study          6 hrs 43 mins       █████████████████████████   99.89 % 
+object-master            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in Java** 
@@ -108,5 +108,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2023 15:01:38 UTC
+ Last Updated on 02/09/2023 15:01:34 UTC
 <!--END_SECTION:waka-->
