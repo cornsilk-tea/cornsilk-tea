@@ -85,13 +85,13 @@ Sunday                   235 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-algorithm-study          1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -107,5 +107,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2023 15:01:49 UTC
+ Last Updated on 26/09/2023 15:01:59 UTC
 <!--END_SECTION:waka-->
