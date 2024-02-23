@@ -85,14 +85,13 @@ Sunday                   217 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Bash                     18 mins             ███████████████░░░░░░░░░░   59.76 % 
-SQL                      12 mins             ██████████░░░░░░░░░░░░░░░   40.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-바탕 화면                    30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -108,5 +107,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2024 15:01:18 UTC
+ Last Updated on 23/02/2024 15:01:20 UTC
 <!--END_SECTION:waka-->
