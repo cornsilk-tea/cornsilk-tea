@@ -56,44 +56,6 @@ Here are some ideas to get you started:
 ---
 ### 🕒 WakaTime Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2049%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-🌆 Daytime                528 commits         ████████████░░░░░░░░░░░░░   48.13 % 
-🌃 Evening                305 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-🌙 Night                  183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Tuesday                  138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Wednesday                168 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Thursday                 218 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Friday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Saturday                 62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Sunday                   216 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -107,5 +69,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2024 15:01:35 UTC
+ Last Updated on 22/10/2024 15:01:32 UTC
 <!--END_SECTION:waka-->
