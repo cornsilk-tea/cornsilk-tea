@@ -56,8 +56,6 @@ Here are some ideas to get you started:
 ---
 ### 🕒 WakaTime Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2049%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -107,5 +105,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2025 15:01:11 UTC
+ Last Updated on 02/01/2025 15:01:16 UTC
 <!--END_SECTION:waka-->
